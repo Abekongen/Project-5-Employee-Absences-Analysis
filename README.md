@@ -63,34 +63,51 @@ Based on the findings, recommendations were made to address high absence rates, 
 ![image_480](https://github.com/user-attachments/assets/11a53707-b0e3-4917-88d6-a658f4efa09d)
 
 
+
 ### Average Absences by Department
 - **Sales** had the highest average absences (16.45), followed closely by **Finance** (15.19). **Marketing** recorded the lowest (14.29).
 
 
+
 ![image_480](https://github.com/user-attachments/assets/1eb21925-7bb3-4c9c-9d55-25eca3624c04)
+
 
 
 ### Primary Reasons for Absences
 - **Personal reasons** accounted for the highest count of absences (22.4%), followed by **sickness** (20.6%) and **vacation** (15.4%).
 
 
+
 ![image_720](https://github.com/user-attachments/assets/ab9be69e-e2dd-465e-9bd5-e464fdf8214d)
+
+
 
 ### Absences by Age Group
 - Employees aged **50 and above** experienced the highest number of absences, suggesting potential health-related issues associated with aging.
 
 
+
 ![image_480](https://github.com/user-attachments/assets/14efd3a5-2783-47ff-ac45-3b00ff6bcddb)
+
+
 
 ### Gender Discrepancies
 - Female employees had a slightly higher overall count of absences compared to males across most departments.
 
+
+
 ![image_480](https://github.com/user-attachments/assets/70154dba-4832-4275-be2b-199d1eb3c242)
+
+
 
 ### Job Satisfaction Correlation
 - A positive correlation exists between **job satisfaction** and lower absence numbers, indicating that higher job satisfaction may reduce absenteeism.
 
+
+
 ![image_720](https://github.com/user-attachments/assets/4b78b5e1-c6da-4ae8-8f11-7a9ba7356f9d)
+
+
 
 ### Years at Company
 - There is a trend showing that employees with **more years at the company** tend to have higher average absences, indicating possible burnout or fatigue.
