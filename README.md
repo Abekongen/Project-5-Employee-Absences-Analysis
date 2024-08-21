@@ -74,7 +74,7 @@ Based on the findings, recommendations were made to address high absence rates, 
 
 
 ### Primary Reasons for Absences
-- **Personal reasons** accounted for the highest count of absences (22.4%), followed by **sickness** (20.6%) and **vacation** (15.4%).
+- **Parental Leave** accounted for the highest count of absences (22.4%), followed by **vacation** (22%) and **sickness** (20.6%).
 
 
 
